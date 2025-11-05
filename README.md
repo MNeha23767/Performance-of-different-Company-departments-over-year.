@@ -16,6 +16,7 @@ Generate Insights: Identify top-performing and low-performing departments .
 Summarize Findings: Prepare a concise report showing overall company growth . 
 
 # Output: we analyse the data and got the below statistics of the data for better analysis.
+https://github.com/MNeha23767/Performance-of-different-Company-departments-over-year./blob/88a700835e55eb7fea31bd771b8f1291b0cf5d4e/Screenshot%202025-11-05%20201740.png
 
 Average Revenue by Department.
 
